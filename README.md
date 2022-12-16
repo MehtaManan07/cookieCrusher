@@ -1,10 +1,10 @@
 # CookieCrusher
 
-Cookie Clearer is a simple chrome extension that allows users to clear cookies for any website they visit. This can be useful for a variety of purposes, such as viewing content on Medium for free or protecting their privacy while browsing the web.
+Cookie Crusher is a simple chrome extension that allows users to clear cookies for any website they visit. This can be useful for a variety of purposes, such as viewing content on Medium for free or protecting their privacy while browsing the web.
 
 ## Installation
 
-To install Cookie Clearer, follow these steps:
+To install Cookie Crusher, follow these steps:
 
 1. Download the extension file from the releases page.
 2. In Chrome, go to the extensions page (chrome://extensions/).
